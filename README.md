@@ -1,9 +1,11 @@
 # HUST_EIC_Intro
 :label: 华中科技大学电信学院-电信专业 的课程分享与攻略
 
-<img src="https://s2.loli.net/2022/03/22/MJCHDzQcXkTyNb7.png" alt="学院2透明" style="zoom: 20%;" />
+<img src="https://s2.loli.net/2022/03/22/MJCHDzQcXkTyNb7.png" alt="学院2透明" style="zoom: 8%;" />
 
-[TOC]
+[toc]
+
+
 
 :construction: 主要内容包括：课程作业，实验代码，实验报告
 
@@ -25,7 +27,10 @@
 
 ## 课程
 
-
+- [数据挖掘](https://github.com/YuetianW/HUST_EIC_Intro/blob/main/数据挖掘/数据挖掘.md)
+- [通信电子线路](https://github.com/YuetianW/HUST_EIC_Intro/blob/main/通信电子线路/通信电子线路.md)
+- [数字信号处理](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/数字信号处理/数字信号处理.md)
+- 
 
 ## 课外学习
 
