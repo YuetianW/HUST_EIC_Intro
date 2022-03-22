@@ -1,9 +1,45 @@
 # HUST_EIC_Intro
 :label: 华中科技大学电信学院-电信专业 的课程分享与攻略
 
+<img src="https://s2.loli.net/2022/03/22/MJCHDzQcXkTyNb7.png" alt="学院2透明" style="zoom: 20%;" />
+
 [TOC]
 
 :construction: 主要内容包括：课程作业，实验代码，实验报告
 
 :broken_heart: 不包括：因为版权问题，暂时不包括课程的课件与电子书资源
 
+
+
+## 前言
+
+**Why？**:fireworks:
+
+当今社会我们面临的普遍矛盾：越来越多的东西需要学习，时间却越来越少。
+
+因此，我们希望可以建立一个针对HUST-EIC的课程共享资料库，帮助大家提升课程的学习效率。
+
+同时，我们也希望提供一些方向的学习路线与课外资源，帮助后面的同学可以更早的看清前进的方向，在努力的路上少踩一些坑。
+
+
+
+## 课程
+
+
+
+## 课外学习
+
+
+
+## Links🔗
+
+### 校内友链
+
+- [lyandut/HUST-Invictus: 华中科技大学研究生课程资料 (github.com)](https://github.com/lyandut/HUST-Invictus)
+- [recolic/awesome-hust: HUST experiments, reports, and useful tools. (github.com)](https://github.com/recolic/awesome-hust)
+
+### 校外友链
+
+- [PKUanonym/REKCARC-TSC-UHT: 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University (github.com)](https://github.com/PKUanonym/REKCARC-TSC-UHT)
+- [QSCTech/zju-icicles: 浙江大学课程攻略共享计划 (github.com)](https://github.com/QSCTech/zju-icicles)
+- [USTC-Resource/USTC-Course: 中国科学技术大学课程资源 (github.com)](https://github.com/USTC-Resource/USTC-Course)
