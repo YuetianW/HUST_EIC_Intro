@@ -5,6 +5,10 @@
 
 [toc]
 
+-[前言](## 前言)
+
+
+
 :construction: 主要内容包括：课程作业，实验代码，实验报告
 
 :broken_heart: 不包括：因为版权问题，暂时不包括课程的课件与电子书资源
@@ -28,6 +32,7 @@
 - [数据挖掘](https://github.com/YuetianW/HUST_EIC_Intro/blob/main/数据挖掘/数据挖掘.md)
 - [通信电子线路](https://github.com/YuetianW/HUST_EIC_Intro/blob/main/通信电子线路/通信电子线路.md)
 - [数字信号处理](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/数字信号处理/数字信号处理.md)
+- [信号与系统](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/信号与系统/信号与系统.md)
 - 
 
 ## 课外学习
