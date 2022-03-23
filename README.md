@@ -1,11 +1,9 @@
 # HUST_EIC_Intro
 :label: 华中科技大学电信学院-电信专业 的课程分享与攻略
 
-<img src="https://s2.loli.net/2022/03/22/MJCHDzQcXkTyNb7.png" alt="学院2透明" style="zoom: 8%;" />
+![学院2透明超小](https://s2.loli.net/2022/03/22/2Wvrnfo51d7F3Zz.png)
 
 [toc]
-
-
 
 :construction: 主要内容包括：课程作业，实验代码，实验报告
 
