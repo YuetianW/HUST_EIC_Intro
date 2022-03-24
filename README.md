@@ -50,7 +50,8 @@
 
 ### 机器学习&深度学习
 
-
+- [机器学习 李宏毅 2022](https://speech.ee.ntu.edu.tw/~hylee/ml/2022-spring.php)
+- [动手学深度学习课程 (d2l.ai)](https://courses.d2l.ai/zh-v2/)
 
 
 
