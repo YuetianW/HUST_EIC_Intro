@@ -42,6 +42,8 @@
 - [天线与电波传播](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/天线与电波传播)
 - [数电实验](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/数电实验)
 - [大学物理实验](https://git.recolic.net/recolic-hust/phy-exp)
+- [微波实验](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/微波实验)
+- [通信原理实验](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/通信原理实验)
 - 
 
 ## 课外学习
