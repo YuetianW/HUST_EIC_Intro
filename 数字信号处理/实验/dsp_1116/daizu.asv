@@ -1,0 +1,24 @@
+[audio_data,fs]=audioread('SunshineSquare.wav');
+figure;plot_function(audio_data,fs,1);
+figure;plot_function(audio_data,fs,2);
+nfs = [1575,3150,4725];%观察得到
+band1 = 20;%设置阻带宽度（相对中心频率的一半）
+band2 = 200;%设置通带宽度（同上）
+audio_data_new=audio_data;
+for i=1:3
+    audio_data = Chebyshev_bandstop_filter(audio_data,nfs(1)-band1,nfs(1)+band1,nfs(1)-band2,nfs(1)+band2,0.1,30,fs);
+end
+% x1 = Chebyshev_bandstop_filter(x,nfs(1)-band1,nfs(1)+band1,nfs(1)-band2,nfs(1)+band2,0.1,30,fs);
+% %figure;plot_fft(x1,fs,1);
+% x2  = Chebyshev_bandstop_filter(x1,nfs(2)-band1,nfs(2)+band1,nfs(2)-band2,nfs(2)+band2,0.1,30,fs);
+% %figure;plot_fft(x2,fs,1);
+% x3 = Chebyshev_bandstop_filter(x2,nfs(3)-band1,nfs(3)+band1,nfs(3)-band2,nfs(3)+band2,0.1,30,fs);
+% figure;plot_fft(x3,fs,1);
+audiowrite('SunshineSquare_New.wav',x3,fs);
+x3(85270:86080) = 0;
+for i = 86080:length(x3)
+    x3(i)=x3(i)-0.1295;
+end
+x3(85270:86090) = 0;
+figure;plot(x3);
+audiowrite('SunshineSquare_New.wav',x3,fs);
