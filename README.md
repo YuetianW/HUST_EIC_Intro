@@ -44,7 +44,7 @@
 - [大学物理实验](https://git.recolic.net/recolic-hust/phy-exp)
 - [微波实验](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/微波实验)
 - [通信原理实验](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/通信原理实验)
-- 
+- [机器学习导论](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/机器学习导论)
 
 ## 课外学习
 
