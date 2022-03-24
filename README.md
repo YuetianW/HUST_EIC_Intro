@@ -5,8 +5,6 @@
 
 [toc]
 
--[前言](## 前言)
-
 
 
 :construction: 主要内容包括：课程作业，实验代码，实验报告
@@ -27,15 +25,30 @@
 
 
 
-## 课程
+## 下载
+
+若要下载单个文件夹，复制该文件夹的网址，粘贴入[DownGit](https://minhaskamal.github.io/DownGit/#/home)中，选择download即可。
+
+或者你也可以使用[GitZip](http://kinolien.github.io/gitzip/)来下载单个子文件夹。
+
+
+
+## 学院课程
 
 - [数据挖掘](https://github.com/YuetianW/HUST_EIC_Intro/blob/main/数据挖掘/数据挖掘.md)
 - [通信电子线路](https://github.com/YuetianW/HUST_EIC_Intro/blob/main/通信电子线路/通信电子线路.md)
 - [数字信号处理](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/数字信号处理/数字信号处理.md)
 - [信号与系统](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/信号与系统/信号与系统.md)
+- [天线与电波传播](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/天线与电波传播)
+- [数电实验](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/数电实验)
+- [大学物理实验](https://git.recolic.net/recolic-hust/phy-exp)
 - 
 
 ## 课外学习
+
+### 机器学习&深度学习
+
+
 
 
 
