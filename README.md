@@ -13,7 +13,7 @@
 
 
 
-## 前言
+## 前言📕
 
 **Why？**:fireworks:
 
@@ -25,7 +25,7 @@
 
 
 
-## 下载
+## 下载🔽
 
 若要下载单个文件夹，复制该文件夹的网址，粘贴入[DownGit](https://minhaskamal.github.io/DownGit/#/home)中，选择download即可。
 
@@ -33,7 +33,7 @@
 
 
 
-## 学院课程
+## 学院课程🏫
 
 - [数据挖掘](https://github.com/YuetianW/HUST_EIC_Intro/blob/main/数据挖掘/数据挖掘.md)
 - [通信电子线路](https://github.com/YuetianW/HUST_EIC_Intro/blob/main/通信电子线路/通信电子线路.md)
@@ -46,12 +46,24 @@
 - [通信原理实验](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/通信原理实验)
 - [机器学习导论](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/机器学习导论)
 
-## 课外学习
+## 课外学习🏛
 
 ### 机器学习&深度学习
 
 - [机器学习 李宏毅 2022](https://speech.ee.ntu.edu.tw/~hylee/ml/2022-spring.php)
 - [动手学深度学习课程 (d2l.ai)](https://courses.d2l.ai/zh-v2/)
+
+
+
+## 欢迎贡献😄
+
+如果你也认为分享有价值，那么欢迎你的PR或issue！
+
+## 版权声明📋
+
+所有资源，著作权归原作者所有，此项目旨在**学习交流**，所有资源未经允许均不得用于**商业用途**。
+
+若使用者的不当使用造成不良后果，与相应资源的贡献者无关。
 
 
 
