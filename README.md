@@ -48,6 +48,10 @@
 
 ## 课外学习🏛
 
+### 学习路线推荐
+
+[IT技术知识开源图谱 (gitcode.host)](https://dev-roadmap.gitcode.host/)
+
 ### 机器学习&深度学习
 
 - [机器学习 李宏毅 2022](https://speech.ee.ntu.edu.tw/~hylee/ml/2022-spring.php)
