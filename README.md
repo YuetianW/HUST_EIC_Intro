@@ -65,6 +65,8 @@
 
 如果你也认为分享有价值，那么欢迎你的PR或issue！
 
+如果你对GitHub还不太熟悉，这里有一份[GitHub速通指南](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/Git_L/GitHub入门速通.md)准备给你😊
+
 ## 版权声明📋
 
 所有资源，著作权归原作者所有，此项目旨在**学习交流**，所有资源未经允许均不得用于**商业用途**。
