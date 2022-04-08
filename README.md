@@ -42,6 +42,8 @@
 - [数字信号处理](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/数字信号处理/数字信号处理.md)
 - [信号与系统](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/信号与系统/信号与系统.md)
 - [天线与电波传播](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/天线与电波传播)
+- [微机原理](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/微机原理)
+- [模电实验](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/模电实验)
 - [数电实验](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/数电实验)
 - [大学物理实验](https://git.recolic.net/recolic-hust/phy-exp)
 - [微波实验](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/微波实验)
