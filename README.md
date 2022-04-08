@@ -54,7 +54,25 @@
 
 ### 学习路线推荐
 
-[IT技术知识开源图谱 (gitcode.host)](https://dev-roadmap.gitcode.host/)
+电信专业别的不说，最大的优点就是好找工作😂，因为各种各样的知识都学了一些.
+
+因此，你既可以去研究机器学习、深度学习算法，也可以选择做前端或者后端开发；既可以去做网络信息安全，也可以去做软件测试；既可以去做通信研究，也可以去做硬件设计.......🟥🟧🟨🟩🟦
+
+下面是来自[IT技术知识开源图谱 (gitcode.host)](https://dev-roadmap.gitcode.host/)的一些技术方向的学习路线，谨供参考，希望可以帮助你早一点找到自己感兴趣，并愿意为之拼搏的目标与方向！
+
+- [AI算法](https://codechina.gitcode.host/developer-roadmap/ai/intro/)
+- [Python学习路线](https://codechina.gitcode.host/developer-roadmap/python/intro/)
+- [前端技术](https://codechina.gitcode.host/developer-roadmap/frontend/intro/)
+- [后端技术](https://codechina.gitcode.host/developer-roadmap/backend/intro/)
+- [测试技术](https://codechina.gitcode.host/developer-roadmap/test/intro/)
+- [安全技术](https://codechina.gitcode.host/developer-roadmap/security/intro/)
+- [区块链技术](https://codechina.gitcode.host/developer-roadmap/blockchain/intro/)
+- [云原生技术](https://codechina.gitcode.host/developer-roadmap/cloud-native/intro/)
+- [音视频技术](https://codechina.gitcode.host/developer-roadmap/av/intro/)
+- [Go语言](https://codechina.gitcode.host/developer-roadmap/go/intro/)
+- [鸿蒙OS](https://codechina.gitcode.host/developer-roadmap/harmonyos/intro/)
+
+
 
 ### 机器学习&深度学习
 
