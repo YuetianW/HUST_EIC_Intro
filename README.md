@@ -31,6 +31,8 @@
 
 或者你也可以使用[GitZip](http://kinolien.github.io/gitzip/)来下载单个子文件夹。
 
+关于GitHub国内访问，这里有一个不用魔法的方式：[手把手教你流畅访问Github（保姆级教程）_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Aq4y1q7hr?spm_id_from=333.851.b_7265636f6d6d656e64.1)，仅供参考。
+
 
 
 ## 学院课程🏫
@@ -78,6 +80,42 @@
 
 - [机器学习 李宏毅 2022](https://speech.ee.ntu.edu.tw/~hylee/ml/2022-spring.php)
 - [动手学深度学习课程 (d2l.ai)](https://courses.d2l.ai/zh-v2/)
+
+## 杂谈🔮
+
+### 关于科研
+
+- 文献阅读：[研究生们刚开始看英文文献是怎么看的？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/345516318/answer/1051416126?utm_source=qq&utm_medium=social&utm_oi=871542677903122432)
+- 科研工具：[作为一个研究生，有哪些你直呼好用的科研神器？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/484596211/answer/2163122684?utm_source=qq&utm_medium=social&utm_oi=871542677903122432)
+- [你写论文时发现了哪些非常神的网站？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/35931336/answer/2325336004?utm_source=qq&utm_medium=social&utm_oi=871542677903122432)
+- [HelloGitHub 分享 GitHub 上入门级、有趣的开源项目](https://hellogithub.com/)
+- [深度学习方面的科研工作中的实验代码有什么规范和写作技巧？如何妥善管理实验数据？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/268193800?utm_source=qq&utm_medium=social&utm_oi=871542677903122432)
+- [怎么查所在领域的优秀课题组? - 知乎 (zhihu.com)](https://www.zhihu.com/question/393850095/answer/1531276843?utm_source=wechat_session&utm_medium=social&utm_oi=871542677903122432&utm_content=group2_Answer&utm_campaign=shareopn)
+- [如何写好一篇sci ？并能够快速发表? - 知乎 (zhihu.com)](https://www.zhihu.com/question/337000233/answer/1362826082?utm_source=hot_content_share&utm_medium=all)
+
+### 关于考研
+
+**全国考研报考人数高达457万，较去年增加80万，同比增长21.22％，再创历史新高。如果你有考研的意愿，或者决定考研，一定不妨看看下面这几篇高赞回答。**
+
+- [考研是什么？为了什么？](https://www.zhihu.com/answer/537308454)
+
+- [考研前要认清的三个事实](https://zhuanlan.zhihu.com/p/79988022)
+
+- [考研十六条建议，不能再多](https://zhuanlan.zhihu.com/p/35644920)
+
+- [为什么有人考研付出了巨大努力，还是成为炮灰？](https://www.zhihu.com/answer/496253505)
+
+- [如何在考研时每天保持十小时以上高效学习？](https://www.zhihu.com/answer/529444970)
+- [2021年考研该怎么规划？](https://www.zhihu.com/answer/568826051)
+
+
+
+
+### 寒假应该做什么？
+
+推荐阅读：[寒假大学生应该做什么？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/40093444/answer/2290557074?utm_source=qq&utm_medium=social&utm_oi=871542677903122432)
+
+
 
 
 
