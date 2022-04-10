@@ -51,6 +51,7 @@
 - [微波实验](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/微波实验)
 - [通信原理实验](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/通信原理实验)
 - [机器学习导论](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/机器学习导论)
+- [知识产权法律基础](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/知识产权法律基础)
 
 ## 课外学习🏛
 
@@ -95,7 +96,7 @@
 
 ### 关于考研
 
-**全国考研报考人数高达457万，较去年增加80万，同比增长21.22％，再创历史新高。如果你有考研的意愿，或者决定考研，一定不妨看看下面这几篇高赞回答。**
+**2022全国考研报考人数高达457万，较去年增加80万，同比增长21.22％，再创历史新高。如果你有考研的意愿，或者决定考研，一定不妨看看下面这几篇高赞回答。**
 
 - [考研是什么？为了什么？](https://www.zhihu.com/answer/537308454)
 
