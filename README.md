@@ -7,12 +7,6 @@
 
 
 
-:label:主要内容包括：课程作业，实验代码，实验报告
-
-:broken_heart: 不包括：因为版权问题，暂时不包括课程的课件与电子书资源
-
-
-
 ## 前言📕
 
 **Why？**:fireworks:
@@ -23,7 +17,21 @@
 
 同时，我们也希望提供一些方向的学习路线与课外资源，帮助后面的同学可以更早的看清前进的方向，在努力的路上少踩一些坑。
 
+### What？💻
 
+:label:主要内容包括：课程作业，实验代码，实验报告
+
+:broken_heart: 不包括：因为版权问题，暂时不包括课程的课件与电子书资源
+
+注：目前内容还在更新调整中，建议通过 `star` 而非`fork`的方式跟踪最新的`repo`
+
+### 关于电子信息类🗒️
+
+如果你对电信专业的细分方向都有哪些、个人以后都有哪些发展方向和可以去做什么工作还有疑惑，推荐你观看：
+
+[风口来了？一个视频讲透电子信息类所有专业/行业！【框框的b站大学-电子信息类】_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1g44y1N7iQ?share_source=copy_web)
+
+希望对你有启发和帮助😊
 
 ## 下载🔽
 
@@ -129,6 +137,8 @@
 
 - [lyandut/HUST-Invictus: 华中科技大学研究生课程资料 (github.com)](https://github.com/lyandut/HUST-Invictus)
 - [recolic/awesome-hust: HUST experiments, reports, and useful tools. (github.com)](https://github.com/recolic/awesome-hust)
+- [mfp0610/HUST-AIA-Courses-Resource: HUST-AIA学院课程资源 (github.com)](https://github.com/mfp0610/HUST-AIA-Courses-Resource)
+- [AlexFanw/HUSTER-CS: 华中科技大学 计算机科学与技术学院 学习资料💯 以及 实验资料💾 (github.com)](https://github.com/AlexFanw/HUSTER-CS)
 
 ### 校外友链
 
