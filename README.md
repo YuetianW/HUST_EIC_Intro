@@ -39,11 +39,13 @@
 
 或者你也可以使用[GitZip](http://kinolien.github.io/gitzip/)来下载单个子文件夹。
 
-关于GitHub国内访问，这里有一个不用魔法的方式：[手把手教你流畅访问Github（保姆级教程）_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Aq4y1q7hr?spm_id_from=333.851.b_7265636f6d6d656e64.1)，仅供参考。
+关于GitHub国内访问，这里有一个不用魔法的方式：[手把手教你流畅访问Github（保姆级教程）_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Aq4y1q7hr?share_source=copy_web)，仅供参考。
 
 
 
 ## 学院课程🏫
+
+电子信息工程专业本科培养计划：[电信培养计划](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/培养计划)
 
 更新中ing:construction:
 
@@ -111,6 +113,15 @@
 ## 杂谈🔮
 
 ### 关于保研
+
+#### 导师选择
+
+关于导师选择，你可以看看：
+
+- [如何选择导师（避坑指南）_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV16P4y1T7RR?share_source=copy_web)
+- [研三了，再回头看选导师这件事_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1kS4y1M7My?share_source=copy_web)
+
+仅供参考。
 
 
 
