@@ -1,7 +1,11 @@
 # HUST_EIC_Intro
 :label: 华中科技大学电信学院-电信专业 的课程分享与攻略
 
-![学院2透明超小](https://s2.loli.net/2022/03/22/2Wvrnfo51d7F3Zz.png)
+<p align="center">
+  <img src="https://s2.loli.net/2022/03/22/2Wvrnfo51d7F3Zz.png" alt="学院图标">
+</p>
+
+
 
 [toc]
 
@@ -91,6 +95,8 @@
 
 - [机器学习 李宏毅 2022](https://speech.ee.ntu.edu.tw/~hylee/ml/2022-spring.php)
 - [动手学深度学习课程 (d2l.ai)](https://courses.d2l.ai/zh-v2/)
+- [floodsung/Deep-Learning-Papers-Reading-Roadmap: Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech! (github.com)](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
+- [Practical Deep Learning for Coders | Practical Deep Learning for Coders (fast.ai)](https://course.fast.ai/)
 
 
 
@@ -99,6 +105,10 @@
 如果你也认为分享有价值，那么欢迎你的PR或issue！
 
 如果你对GitHub还不太熟悉，这里有一份[GitHub速通指南](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/Git_L/GitHub入门速通.md)准备给你😊
+
+<p align="center">
+  <img src="http://cdn1.sportngin.com/attachments/news_article/7269/5172/needyou_small.jpg" alt="We Need You!">
+</p>
 
 
 
@@ -112,6 +122,8 @@
 
 ## 杂谈🔮
 
+这部分是一些来自b站和知乎等平台的内容，没事的时候可以看看，希望对你有所启发和帮助。
+
 ### 关于保研
 
 #### 导师选择
@@ -123,7 +135,9 @@
 
 仅供参考。
 
+#### 联系导师
 
+- [211/985教授教你如何正确联系导师！邮件书写/联系技巧/考研前需提前做好的准备_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Q64y197mz?spm_id_from=333.999.0.0)
 
 
 
@@ -145,6 +159,10 @@
 这里有一份华中科技大学2022年的考研考纲，仅供参考：
 
 - [华中科技大学2022考研考纲](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/关于考研/华中科技大学考研考纲)
+
+#### 联系导师
+
+[考研是否需要提前联系导师？如何联系？211/985教授告诉你如何择校？_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1m5411K76f)
 
 ## Links🔗
 
