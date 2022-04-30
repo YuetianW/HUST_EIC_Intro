@@ -23,7 +23,7 @@
 
 ### What？💻
 
-:label:主要内容包括：课程作业，实验代码，实验报告
+:label:主要内容包括：课程作业，实验代码，实验报告，课外学习资源推荐、杂谈
 
 :broken_heart: 不包括：因为版权问题，暂时不包括课程的课件与电子书资源
 
@@ -39,9 +39,9 @@
 
 ## 下载🔽
 
-若要下载单个文件夹，复制该文件夹的网址，粘贴入[DownGit](https://minhaskamal.github.io/DownGit/#/home)中，选择download即可。
+若要下载单个文件夹，可以复制该文件夹的网址，粘贴入[DownGit](https://minhaskamal.github.io/DownGit/#/home)中，选择download即可。
 
-或者你也可以使用[GitZip](http://kinolien.github.io/gitzip/)来下载单个子文件夹。
+或者，你也可以使用[GitZip](http://kinolien.github.io/gitzip/)来下载单个子文件夹。
 
 关于GitHub国内访问，这里有一个不用魔法的方式：[手把手教你流畅访问Github（保姆级教程）_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Aq4y1q7hr?share_source=copy_web)，仅供参考。
 
@@ -103,6 +103,7 @@
 ### 提升
 
 - [有哪些网上自学课程的好网站？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/31044894/answer/50427150)
+- [网络上有哪些免费的教育资源？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/19942068/answer/730647908)
 
 
 
@@ -133,6 +134,7 @@
 ### 关于大学生活
 
 - [如果让你重新上一次大学，你会怎么度过？为什么？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/304844787)
+- [如果重返大一，你会做什么? - 知乎 (zhihu.com)](https://www.zhihu.com/question/324995122/answer/1543784086)
 
 ### 关于保研
 
@@ -142,6 +144,7 @@
 
 - [如何选择导师（避坑指南）_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV16P4y1T7RR?share_source=copy_web)
 - [研三了，再回头看选导师这件事_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1kS4y1M7My?share_source=copy_web)
+- [保研什么时候联系导师最好？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/380312738/answer/1869786925)
 
 仅供参考。
 
@@ -156,13 +159,10 @@
 **2022全国考研报考人数高达457万，较去年增加80万，同比增长21.22％，再创历史新高。如果你有考研的意愿，或者决定考研，一定不妨看看下面这几篇高赞回答。**
 
 - [考研是什么？为了什么？](https://www.zhihu.com/answer/537308454)
-
+- [考完研，你发现了考研的哪些坑? - 知乎 (zhihu.com)](https://www.zhihu.com/question/307236986/answer/671256321)
 - [考研前要认清的三个事实](https://zhuanlan.zhihu.com/p/79988022)
-
 - [考研十六条建议，不能再多](https://zhuanlan.zhihu.com/p/35644920)
-
 - [为什么有人考研付出了巨大努力，还是成为炮灰？](https://www.zhihu.com/answer/496253505)
-
 - [如何在考研时每天保持十小时以上高效学习？](https://www.zhihu.com/answer/529444970)
 - [2021年考研该怎么规划？](https://www.zhihu.com/answer/568826051)
 
@@ -173,6 +173,10 @@
 #### 联系导师
 
 - [考研是否需要提前联系导师？如何联系？211/985教授告诉你如何择校？_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1m5411K76f)
+
+#### 复试
+
+- [考研复试时导师最想看到什么样的自我介绍？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/369140393/answer/1646584297)
 
 ## Links🔗
 
