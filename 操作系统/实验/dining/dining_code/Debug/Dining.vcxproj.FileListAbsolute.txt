@@ -1,0 +1,5 @@
+C:\Users\suga\Desktop\操作系统\操作系统.code\同步处理示例实验\哲学家\dining\Debug\Dining.exe
+C:\Users\suga\Desktop\操作系统\操作系统.code\同步处理示例实验\哲学家\dining\Debug\Dining.pdb
+C:\Users\suga\Desktop\VS\dining\Debug\Dining.exe
+C:\Users\suga\Desktop\VS\dining\Debug\Dining.pdb
+C:\Users\13675\Desktop\OS实验VS2019\VS\dining\Debug\Dining.exe
