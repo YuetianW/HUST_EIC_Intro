@@ -1,2 +1,0 @@
-E:\VS\ReaderAndWriter\Debug\ReaderAndWriter.exe
-E:\VS\ReaderAndWriter\Debug\ReaderAndWriter.pdb
