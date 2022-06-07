@@ -51,7 +51,7 @@
 
 电子信息工程专业本科培养计划：[电信培养计划](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/培养计划)
 
-更新中ing:construction:
+课程内容更新中ing:construction:
 
 - [数据挖掘](https://github.com/YuetianW/HUST_EIC_Intro/blob/main/数据挖掘/数据挖掘.md)
 - [通信电子线路](https://github.com/YuetianW/HUST_EIC_Intro/blob/main/通信电子线路/通信电子线路.md)
@@ -66,6 +66,9 @@
 - [通信原理实验](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/通信原理实验)
 - [机器学习导论](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/机器学习导论)
 - [知识产权法律基础](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/知识产权法律基础)
+- [计算机视觉](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/计算机视觉)
+- [操作系统](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/操作系统)
+- [本科毕业设计](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/本科毕业设计)
 
 ## 课外学习🏛
 
@@ -177,6 +180,8 @@
 #### 复试
 
 - [考研复试时导师最想看到什么样的自我介绍？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/369140393/answer/1646584297)
+
+
 
 ## Links🔗
 
