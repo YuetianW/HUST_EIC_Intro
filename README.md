@@ -51,6 +51,8 @@
 
 电子信息工程专业本科培养计划：[电信培养计划](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/培养计划)
 
+专业方向简介：[专业方向](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/专业方向课程群简介)
+
 课程内容更新中ing:construction:
 
 - [数据挖掘](https://github.com/YuetianW/HUST_EIC_Intro/blob/main/数据挖掘/数据挖掘.md)
