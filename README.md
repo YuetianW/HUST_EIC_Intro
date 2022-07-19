@@ -99,7 +99,17 @@
 ### 机器学习&深度学习
 
 - [机器学习 李宏毅 2022](https://speech.ee.ntu.edu.tw/~hylee/ml/2022-spring.php)
+
+  - > 机器学习经典入门课程，宝可梦大师李宏毅教授每年都会紧跟时事的更新，非常推荐
+
 - [动手学深度学习课程 (d2l.ai)](https://courses.d2l.ai/zh-v2/)
+
+  - > 沐神亲授，与实践结合紧密，一半理论，一半代码
+
+- [神经网络与深度学习 (nndl.github.io)](https://nndl.github.io/)
+
+  - > 比较新的深度学习入门教材，又名蒲公英书
+
 - [floodsung/Deep-Learning-Papers-Reading-Roadmap: Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech! (github.com)](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
 - [Practical Deep Learning for Coders | Practical Deep Learning for Coders (fast.ai)](https://course.fast.ai/)
 
