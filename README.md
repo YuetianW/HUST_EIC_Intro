@@ -110,6 +110,10 @@
 
   - > 比较新的深度学习入门教材，又名蒲公英书
 
+- [Deep Learning (deeplearningbook.org)](https://www.deeplearningbook.org/)
+
+  - > Ian Goodfellow所著，深度学习入门“圣经”——花书
+
 - [floodsung/Deep-Learning-Papers-Reading-Roadmap: Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech! (github.com)](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
 - [Practical Deep Learning for Coders | Practical Deep Learning for Coders (fast.ai)](https://course.fast.ai/)
 
