@@ -188,7 +188,9 @@
 - [研三了，再回头看选导师这件事_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1kS4y1M7My?share_source=copy_web)
 - [保研什么时候联系导师最好？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/380312738/answer/1869786925)
 
-仅供参考。
+#### 保研资料
+
+同时，这里[（戳我）](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/关于保研)有一些资料，仅供参考。
 
 #### 联系导师
 
