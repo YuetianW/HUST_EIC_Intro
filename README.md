@@ -92,6 +92,7 @@
 - [知识产权法律基础](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/知识产权法律基础)
 - [计算机视觉](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/计算机视觉)
 - [操作系统](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/操作系统)
+- [多媒体搜索](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/多媒体搜索)
 - [本科毕业设计](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/本科毕业设计)
 
 ## 课外学习🏛
