@@ -137,7 +137,7 @@ git push
 
 2. 参与HUST_EIC_Intro项目的开发：
 
-   1. `Fork`Paddle项目：在项目Github主页（[YuetianW/HUST_EIC_Intro: 华中科技大学电信学院-电信专业 的课程分享与攻略 (github.com)](https://github.com/YuetianW/HUST_EIC_Intro)）右上角点击"Fork"按钮
+   1. `Fork`本项目：在项目Github主页（[YuetianW/HUST_EIC_Intro: 华中科技大学电信学院-电信专业 的课程分享与攻略 (github.com)](https://github.com/YuetianW/HUST_EIC_Intro)）右上角点击"Fork"按钮
 
    2. `Fork`成功页面将跳转至用户自己的Github Repo，点击`Code`按钮并复制项目Clone地址
 
