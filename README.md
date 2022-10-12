@@ -59,6 +59,12 @@
 
 希望对你有启发和帮助😊
 
+### 欢迎分享 🙆‍♂️
+
+下面是本项目地址的二维码，欢迎你分享给身边有需要的同学！感谢你们对本项目的支持！
+
+![image-20221012195627768](https://s2.loli.net/2022/10/12/thLSsbCXnOVB3Jq.png)
+
 ## 下载🔽
 
 若要下载单个文件夹，可以复制该文件夹的网址，粘贴入[DownGit](https://minhaskamal.github.io/DownGit/#/home)中，选择download即可。
@@ -77,24 +83,26 @@
 
 课程内容更新中ing:construction:
 
-- [数据挖掘](https://github.com/YuetianW/HUST_EIC_Intro/blob/main/数据挖掘/数据挖掘.md)
-- [通信电子线路](https://github.com/YuetianW/HUST_EIC_Intro/blob/main/通信电子线路/通信电子线路.md)
-- [数字信号处理](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/数字信号处理/数字信号处理.md)
-- [信号与系统](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/信号与系统/信号与系统.md)
-- [天线与电波传播](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/天线与电波传播)
-- [微机原理](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/微机原理)
-- [模电实验](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/模电实验)
-- [数电实验](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/数电实验)
-- [大学物理实验](https://git.recolic.net/recolic-hust/phy-exp)
-- [微波实验](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/微波实验)
-- [通信原理实验](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/通信原理实验)
-- [机器学习导论](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/机器学习导论)
-- [知识产权法律基础](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/知识产权法律基础)
-- [计算机视觉](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/计算机视觉)
-- [计算机网络](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/计算机网络)
-- [操作系统](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/操作系统)
-- [多媒体搜索](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/多媒体搜索)
-- [本科毕业设计](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/本科毕业设计)
+| 课程/link                                                    | 内容             |
+| ------------------------------------------------------------ | :--------------- |
+| [数据挖掘](https://github.com/YuetianW/HUST_EIC_Intro/blob/main/数据挖掘/数据挖掘.md) | 实验、报告       |
+| [通信电子线路](https://github.com/YuetianW/HUST_EIC_Intro/blob/main/通信电子线路/通信电子线路.md) | 实验、报告       |
+| [数字信号处理](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/数字信号处理/数字信号处理.md) | 实验、报告       |
+| [信号与系统](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/信号与系统/信号与系统.md) | 实验、项目       |
+| [天线与电波传播](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/天线与电波传播) | 实验             |
+| [微机原理](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/微机原理) | 实验、报告       |
+| [模电实验](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/模电实验) | 实验+大作业      |
+| [数电实验](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/数电实验) | 实验、报告       |
+| [大学物理实验](https://git.recolic.net/recolic-hust/phy-exp) | 实验             |
+| [微波实验](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/微波实验) | 实验、报告       |
+| [通信原理实验](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/通信原理实验) | 实验、仿真、报告 |
+| [机器学习导论](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/机器学习导论) | 实验、平时作业   |
+| [知识产权法律基础](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/知识产权法律基础) | 论文作业         |
+| [计算机视觉](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/计算机视觉) | 实验、报告       |
+| [计算机网络](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/计算机网络) | 复习资料         |
+| [操作系统](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/操作系统) | 课件、实验、报告 |
+| [多媒体搜索](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/多媒体搜索) | 论文分享作业     |
+| [本科毕业设计](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/本科毕业设计) | 模板             |
 
 ## 课外学习🏛
 
