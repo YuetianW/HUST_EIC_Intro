@@ -63,7 +63,11 @@
 
 下面是本项目地址的二维码，欢迎你分享给身边有需要的同学！感谢你们对本项目的支持！
 
-![image-20221012195627768](https://s2.loli.net/2022/10/12/thLSsbCXnOVB3Jq.png)
+<p align="center">
+  <img src="https://s2.loli.net/2022/10/12/thLSsbCXnOVB3Jq.png" alt="项目二维码">
+</p>
+
+
 
 ## 下载🔽
 
