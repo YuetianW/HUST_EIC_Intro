@@ -2,6 +2,17 @@
 :label: 华中科技大学电信学院-电信专业 的课程分享与攻略
 
 <p align="center">
+<a href="https://github.com/YuetianW/HUST_EIC_Intro/stargazers"><img src="https://img.shields.io/github/stars/YuetianW/HUST_EIC_Intro" alt="Stars Badge"/></a>
+<a href="https://github.com/YuetianW/HUST_EIC_Intro/network/members"><img src="https://img.shields.io/github/forks/YuetianW/HUST_EIC_Intro" alt="Forks Badge"/></a>
+<a href="https://github.com/YuetianW/HUST_EIC_Intro/pulls"><img src="https://img.shields.io/github/issues-pr/YuetianW/HUST_EIC_Intro" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/YuetianW/HUST_EIC_Intro/issues"><img src="https://img.shields.io/github/issues/YuetianW/HUST_EIC_Intro" alt="Issues Badge"/></a>
+<a href="https://github.com/YuetianW/HUST_EIC_Intro/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/YuetianW/HUST_EIC_Intro?color=2b9348"></a>
+</p>
+
+
+
+
+<p align="center">
   <img src="https://s2.loli.net/2022/03/22/2Wvrnfo51d7F3Zz.png" alt="学院图标">
 </p>
 
@@ -64,8 +75,9 @@
 下面是本项目地址的二维码，欢迎你分享给身边有需要的同学！感谢你们对本项目的支持！
 
 <p align="center">
-  <img src="https://s2.loli.net/2022/10/12/thLSsbCXnOVB3Jq.png" alt="项目二维码">
+  <img src="https://s2.loli.net/2022/10/12/thLSsbCXnOVB3Jq.png" alt="项目二维码" style="zoom: 50%;">
 </p>
+
 
 
 
