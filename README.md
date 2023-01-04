@@ -7,7 +7,9 @@
 <a href="https://github.com/YuetianW/HUST_EIC_Intro/pulls"><img src="https://img.shields.io/github/issues-pr/YuetianW/HUST_EIC_Intro" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/YuetianW/HUST_EIC_Intro/issues"><img src="https://img.shields.io/github/issues/YuetianW/HUST_EIC_Intro" alt="Issues Badge"/></a>
 <a href="https://github.com/YuetianW/HUST_EIC_Intro/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/YuetianW/HUST_EIC_Intro?color=2b9348"></a>
+<a href="https://github.com/YuetianW/HUST_EIC_Intro/blob/master/LICENSE"><img src="https://img.shields.io/github/license/YuetianW/HUST_EIC_Intro?color=2b9348" alt="License Badge"/></a>
 </p>
+
 
 
 
@@ -75,8 +77,9 @@
 下面是本项目地址的二维码，欢迎你分享给身边有需要的同学！感谢你们对本项目的支持！
 
 <p align="center">
-  <img src="https://s2.loli.net/2022/10/12/thLSsbCXnOVB3Jq.png" alt="项目二维码" style="zoom: 50%;">
+  <img src="https://s2.loli.net/2022/10/12/thLSsbCXnOVB3Jq.png" alt="项目二维码" height="300px">
 </p>
+
 
 
 
@@ -99,26 +102,26 @@
 
 课程内容更新中ing:construction:
 
-| 课程/link                                                    | 内容             |
-| ------------------------------------------------------------ | :--------------- |
-| [数据挖掘](https://github.com/YuetianW/HUST_EIC_Intro/blob/main/数据挖掘/数据挖掘.md) | 实验、报告       |
-| [通信电子线路](https://github.com/YuetianW/HUST_EIC_Intro/blob/main/通信电子线路/通信电子线路.md) | 实验、报告       |
-| [数字信号处理](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/数字信号处理/数字信号处理.md) | 实验、报告       |
-| [信号与系统](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/信号与系统/信号与系统.md) | 实验、项目       |
-| [天线与电波传播](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/天线与电波传播) | 实验             |
-| [微机原理](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/微机原理) | 实验、报告       |
-| [模电实验](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/模电实验) | 实验+大作业      |
-| [数电实验](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/数电实验) | 实验、报告       |
-| [大学物理实验](https://git.recolic.net/recolic-hust/phy-exp) | 实验             |
-| [微波实验](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/微波实验) | 实验、报告       |
-| [通信原理实验](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/通信原理实验) | 实验、仿真、报告 |
-| [机器学习导论](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/机器学习导论) | 实验、平时作业   |
-| [知识产权法律基础](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/知识产权法律基础) | 论文作业         |
-| [计算机视觉](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/计算机视觉) | 实验、报告       |
-| [计算机网络](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/计算机网络) | 复习资料         |
-| [操作系统](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/操作系统) | 课件、实验、报告 |
-| [多媒体搜索](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/多媒体搜索) | 论文分享作业     |
-| [本科毕业设计](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/本科毕业设计) | 模板             |
+| 课程/link                                                    | 内容                  | 课程类型     |
+| ------------------------------------------------------------ | --------------------- | ------------ |
+| [大学物理实验](https://git.recolic.net/recolic-hust/phy-exp) | 实验                  | **必修课**   |
+| [模电实验](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/模电实验) | 实验+大作业           |              |
+| [数电实验](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/数电实验) | 实验、报告            |              |
+| [微机原理](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/微机原理) | 实验、报告            |              |
+| [数字信号处理](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/数字信号处理/数字信号处理.md) | 实验、报告            |              |
+| [信号与系统](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/信号与系统/信号与系统.md) | 实验、项目            |              |
+| [通信电子线路](https://github.com/YuetianW/HUST_EIC_Intro/blob/main/通信电子线路/通信电子线路.md) | 实验、报告            |              |
+| [微波实验](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/微波实验) | 实验、报告            |              |
+| [通信原理实验](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/通信原理实验) | 实验、仿真、报告      |              |
+| [数据挖掘](https://github.com/YuetianW/HUST_EIC_Intro/blob/main/数据挖掘/数据挖掘.md) | 实验、报告            | **专业课**   |
+| [机器学习导论](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/机器学习导论) | 实验、平时作业        |              |
+| [知识产权法律基础](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/知识产权法律基础) | 论文作业              |              |
+| [计算机视觉](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/计算机视觉) | 实验、报告            |              |
+| [计算机网络](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/计算机网络) | 复习资料              |              |
+| [操作系统](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/操作系统) | 课件、实验、报告      |              |
+| [多媒体搜索](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/多媒体搜索) | 论文分享作业          |              |
+| [天线与电波传播](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/天线与电波传播) | 实验                  |              |
+| [本科毕业设计](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/本科毕业设计) | word模板、答辩PPT指导 | **毕业设计** |
 
 ## 课外学习🏛
 
@@ -130,17 +133,18 @@
 
 下面是来自[IT技术知识开源图谱 (gitcode.host)](https://dev-roadmap.gitcode.host/)的一些技术方向的学习路线，谨供参考，希望可以帮助你早一点找到自己感兴趣，并愿意为之拼搏的目标与方向！
 
-- [AI算法](https://codechina.gitcode.host/developer-roadmap/ai/intro/)
-- [Python学习路线](https://codechina.gitcode.host/developer-roadmap/python/intro/)
-- [前端技术](https://codechina.gitcode.host/developer-roadmap/frontend/intro/)
-- [后端技术](https://codechina.gitcode.host/developer-roadmap/backend/intro/)
-- [测试技术](https://codechina.gitcode.host/developer-roadmap/test/intro/)
-- [安全技术](https://codechina.gitcode.host/developer-roadmap/security/intro/)
-- [区块链技术](https://codechina.gitcode.host/developer-roadmap/blockchain/intro/)
-- [云原生技术](https://codechina.gitcode.host/developer-roadmap/cloud-native/intro/)
-- [音视频技术](https://codechina.gitcode.host/developer-roadmap/av/intro/)
-- [Go语言](https://codechina.gitcode.host/developer-roadmap/go/intro/)
-- [鸿蒙OS](https://codechina.gitcode.host/developer-roadmap/harmonyos/intro/)
+> - [AI算法](https://codechina.gitcode.host/developer-roadmap/ai/intro/)
+> - [Python学习路线](https://codechina.gitcode.host/developer-roadmap/python/intro/)
+> - [前端技术](https://codechina.gitcode.host/developer-roadmap/frontend/intro/)
+> - [后端技术](https://codechina.gitcode.host/developer-roadmap/backend/intro/)
+> - [测试技术](https://codechina.gitcode.host/developer-roadmap/test/intro/)
+> - [安全技术](https://codechina.gitcode.host/developer-roadmap/security/intro/)
+> - [区块链技术](https://codechina.gitcode.host/developer-roadmap/blockchain/intro/)
+> - [云原生技术](https://codechina.gitcode.host/developer-roadmap/cloud-native/intro/)
+> - [音视频技术](https://codechina.gitcode.host/developer-roadmap/av/intro/)
+> - [Go语言](https://codechina.gitcode.host/developer-roadmap/go/intro/)
+> - [鸿蒙OS](https://codechina.gitcode.host/developer-roadmap/harmonyos/intro/)
+>
 
 
 
@@ -188,9 +192,18 @@
 
 ## 版权声明📋
 
-所有资源，著作权归原作者所有，此项目旨在**学习交流**，所有资源未经允许均不得用于**商业用途**。
+### 许可
 
-若使用者的不当使用造成不良后果，与相应资源的贡献者无关。
+由贡献者编写部分的许可如下：
+
+[(Creative Commons BY-SA 4.0) 知识共享署名 - 相同方式共享 4.0 国际许可协议](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
+
+其他部分的著作权归原作者所有
+
+> 此项目旨在**学习交流**，所有资源未经允许均不得用于**商业用途**。
+>
+> 若使用者的不当使用造成不良后果，与相应资源的贡献者无关。
+>
 
 
 
