@@ -105,6 +105,7 @@
 | 课程/link                                                    | 内容                  | 课程类型     |
 | ------------------------------------------------------------ | --------------------- | ------------ |
 | [大学物理实验](https://git.recolic.net/recolic-hust/phy-exp) | 实验                  | **必修课**   |
+| [C语言](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/C语言)| 实验、平时作业           | **必修课**   |
 | [模电实验](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/模电实验) | 实验+大作业           |              |
 | [数电实验](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/数电实验) | 实验、报告            |              |
 | [微机原理](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/微机原理) | 实验、报告            |              |
