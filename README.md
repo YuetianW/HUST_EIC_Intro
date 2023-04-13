@@ -121,7 +121,7 @@
 | [计算机网络](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/计算机网络) | 复习资料              |              |
 | [操作系统](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/操作系统) | 课件、实验、报告      |              |
 | [多媒体搜索](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/多媒体搜索) | 论文分享作业          |              |
-| [天线与电波传播](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/天线与电波传播) | 实验                  |              |
+| [天线与电波传播](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/天线与电波传播) | 实验、课后题答案            |              |
 | [本科毕业设计](https://github.com/YuetianW/HUST_EIC_Intro/tree/main/本科毕业设计) | word模板、答辩PPT指导 | **毕业设计** |
 
 ## 课外学习🏛
