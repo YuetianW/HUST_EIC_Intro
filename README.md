@@ -45,8 +45,11 @@
     - [校内友链](#校内友链)
     - [校外友链](#校外友链)
 
-
 ## 前言📕
+
+<p align="center">
+  <img src="https://s2.loli.net/2023/07/10/ctTvDjpIU5SPwoH.png" alt="首图" height="180px">
+</p>
 
 ### **Why？**:fireworks:
 
